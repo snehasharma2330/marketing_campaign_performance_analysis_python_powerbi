@@ -4,7 +4,7 @@
 ### PROJECT OVERVIEW
 
 ### The project analyzes marketing campaign performance to understand how marketing spending, customer engagement, clicks, impressions and conversions affect campaign success.
- The project covers the period from ** July 2024 to June 2025** and uses **55,555 marketing campaign records**.
+### The project covers the period from ** July 2024 to June 2025** and uses **55,555 marketing campaign records**.
 ---
 
 ## BUSINESS PROBLEMS
@@ -73,13 +73,13 @@
 ### 	The average ROI across campaign types was also relatively similar, so individual campaign performance is more useful than simply comparing campaign types.
 ---
 ## RECOMMENDATIONS
-	Increase investment in high ROI campaigns
-Especially campaigns achieving results close to the top after checking their performance is consistent.
-	Review high cost, low ROI campaigns and reduce or stop spending where campaigns continue to generate ROI close to 0 or negative.
-	Since the overall click-to-conversion rate is 22.03%, investigate campaigns performing significantly below this level and improve their targeting, messaging or conversion process.
-	Study the small group of campaigns generating exceptionally high conversions and identify what they have in common in terms of cost, engagement, audience and channel.
-	Improve campaign target and creative rather than simply increasing impressions because campaigns with similar impressions still produced different click and conversion results.
-	Avoid allocating budget based on category as it shows the average ROI and others were quite similar across them. So individual campaign will be better to make investment decisions.
+### 	Increase investment in high ROI campaigns
+### Especially campaigns achieving results close to the top after checking their performance is consistent.
+### 	Review high cost, low ROI campaigns and reduce or stop spending where campaigns continue to generate ROI close to 0 or negative.
+### 	Since the overall click-to-conversion rate is 22.03%, investigate campaigns performing significantly below this level and improve their targeting, messaging or conversion process.
+### 	Study the small group of campaigns generating exceptionally high conversions and identify what they have in common in terms of cost, engagement, audience and channel.
+### 	Improve campaign target and creative rather than simply increasing impressions because campaigns with similar impressions still produced different click and conversion results.
+### 	Avoid allocating budget based on category as it shows the average ROI and others were quite similar across them. So individual campaign will be better to make investment decisions.
 
 ---
 
