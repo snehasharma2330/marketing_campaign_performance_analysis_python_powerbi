@@ -65,12 +65,12 @@ MARKETING CAMPAIGN PERFORMANCE ANALYSIS
 ---
 
 ## BUSINESS INSIGHTS
-	Campaigns with higher clicks generally generated more conversions but similar clicks volumes sometimes produced very different conversion results, indicating that traffic alone does not guarantee conversions.
-	The overall click-to-conversion rate was 22.03%, means around 22 out of 100 clicks resulted in a conversion, customer actually bought a product.
-	The highest-performing campaigns achieved ROI of around 74.42 with low cost as outlier while several campaigns with high acquisition cost had ROI close to 0 or even negative.
-	Only a small number of campaigns generated exceptionally high conversion volumes while most had lower numbers. This suggests that company should replicate the strategies used by the best performing campaigns.
-	Campaigns with higher impressions generally generated more clicks and conversions but those with similar impression level produced different results, showing that reach alone is not enough.
-	The average ROI across campaign types was also relatively similar, so individual campaign performance is more useful than simply comparing campaign types.
+### 	Campaigns with higher clicks generally generated more conversions but similar clicks volumes sometimes produced very different conversion results, indicating that traffic alone does not guarantee conversions.
+### 	The overall click-to-conversion rate was 22.03%, means around 22 out of 100 clicks resulted in a conversion, customer actually bought a product.
+### 	The highest-performing campaigns achieved ROI of around 74.42 with low cost as outlier while several campaigns with high acquisition cost had ROI close to 0 or even negative.
+### 	Only a small number of campaigns generated exceptionally high conversion volumes while most had lower numbers. This suggests that company should replicate the strategies used by the best performing campaigns.
+### 	Campaigns with higher impressions generally generated more clicks and conversions but those with similar impression level produced different results, showing that reach alone is not enough.
+### 	The average ROI across campaign types was also relatively similar, so individual campaign performance is more useful than simply comparing campaign types.
 ---
 ## RECOMMENDATIONS
 	Increase investment in high ROI campaigns
@@ -131,7 +131,9 @@ This analysis helps marketing teams:
 •	Monitor campaign performance over time
 •	Make better budget allocation decisions
 ---
- This project provided a detailed view of marketing performance by examining spending, reach, engagement and conversations. The analysis revealed that campaign results can vary significantly, highlighting the importance of evaluating multiple performance factors together. Overall, the findings provide a data-driven decision for improving future campaigns strategies and performance.
+
+## CONCLUSION
+This project provided a detailed view of marketing performance by examining spending, reach, engagement and conversations. The analysis revealed that campaign results can vary significantly, highlighting the importance of evaluating multiple performance factors together. Overall, the findings provide a data-driven decision for improving future campaigns strategies and performance.
 
 ## Author
 Sneha Sharma
