@@ -37,15 +37,15 @@ MARKETING CAMPAIGN PERFORMANCE ANALYSIS
 ## DATA CLEANING
 ### The dataset was first reviewed and cleaned before analysis by using pandas in python.
 ### Cleaning steps included:
-•	Checked for missing values
-•	Checked for duplicate values
-•	Reviewed data types
-•	Standardized date formats
-•	Checked numerical columns for invalid values
-•	Reviewed ROI values, including negative ROI
-•	Checked acquisition cost values
-•	Verified categorical values
-•	Reviewed outliers using statistical summaries and scatter plot
+### •	Checked for missing values
+### •	Checked for duplicate values
+### •	Reviewed data types
+### •	Standardized date formats
+### •	Checked numerical columns for invalid values
+### •	Reviewed ROI values, including negative ROI
+### •	Checked acquisition cost values
+### •	Verified categorical values
+### •	Reviewed outliers using statistical summaries and scatter plot
 ---
 
 ## ANALYTICAL APPROACH
@@ -55,13 +55,13 @@ MARKETING CAMPAIGN PERFORMANCE ANALYSIS
 ### - This approach helped avoid forcing conclusions from similar category averages and allowed the recommendations to be based on the actual patterns present in the data. 
 ## Exploratory Data Analysis
 ### Python was used to investigate relationships between important marketing patterns.
-•	Acquisition Cost vs ROI
-•	Clicks vs Conversions
-•	Impressions vs Clicks
-•	Engagement Score vs ROI
-•	Distribution of Conversions
-•	ROI distribution by campaign type
-•	Campaign performance over time 
+### •	Acquisition Cost vs ROI
+### •	Clicks vs Conversions
+### •	Impressions vs Clicks
+### •	Engagement Score vs ROI
+### •	Distribution of Conversions
+### •	ROI distribution by campaign type
+### •	Campaign performance over time 
 ---
 
 ## BUSINESS INSIGHTS
