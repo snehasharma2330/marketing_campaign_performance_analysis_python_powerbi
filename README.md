@@ -106,10 +106,10 @@ Especially campaigns achieving results close to the top after checking their per
 •	Total Conversions
 •	Total Impressions
 ### Visuals
-•	Acquisition cost vs ROI
-•	Avg ROI by campaign IDs
-•	Clicks vs Conversions
-•	Engagement score vs ROI
+### •	Acquisition cost vs ROI
+### •	Avg ROI by campaign IDs
+### •	Clicks vs Conversions
+### •	Engagement score vs ROI
 
 ### Interactive Filters
 •	Date
@@ -124,12 +124,12 @@ Especially campaigns achieving results close to the top after checking their per
 
 ## BUSINESS IMPACT
 This analysis helps marketing teams:
-•	Identify high performing campaigns
-•	Control inefficient marketing spending
-•	Understand the relationship between clicks and conversions.
-•	Improve customer engagement
-•	Monitor campaign performance over time
-•	Make better budget allocation decisions
+### •	Identify high performing campaigns
+### •	Control inefficient marketing spending
+### •	Understand the relationship between clicks and conversions.
+### •	Improve customer engagement
+### •	Monitor campaign performance over time
+### •	Make better budget allocation decisions
 ---
 
 ## CONCLUSION
