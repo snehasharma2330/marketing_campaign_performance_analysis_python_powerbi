@@ -1,7 +1,7 @@
 
-MARKETING CAMPAIGN PERFORMANCE ANALYSIS
+## MARKETING CAMPAIGN PERFORMANCE ANALYSIS
 
-## PROJECT OVERVIEW
+### PROJECT OVERVIEW
 
 ### The project analyzes marketing campaign performance to understand how marketing spending, customer engagement, clicks, impressions and conversions affect campaign success.
  The project covers the period from ** July 2024 to June 2025** and uses **55,555 marketing campaign records**.
@@ -28,10 +28,10 @@ MARKETING CAMPAIGN PERFORMANCE ANALYSIS
 
 
 ## TOOLS USED
-•	**Jupyter Notebook** - Data cleaning and validation
-•	**Pandas** - Exploratory Data Analysis 
-•	*Matplotlib** - Data visualization
-•	**Power BI** - Interactive dashboard and business reporting
+### •	**Jupyter Notebook** - Data cleaning and validation
+### •	**Pandas** - Exploratory Data Analysis 
+### •	*Matplotlib** - Data visualization
+### •	**Power BI** - Interactive dashboard and business reporting
 ---
 
 ## DATA CLEANING
@@ -93,11 +93,11 @@ Especially campaigns achieving results close to the top after checking their per
 •	Average ROI
 •	Average engagement score
 ### Visuals
-•	Campaigns by Type Distribution
-•	Average ROI by Customer Segment
-•	ROI Trend
-•	Conversion Trend
-•	Short table summary by category (Num of campaigns, avg conversions, avg ROI)
+### •	Campaigns by Type Distribution
+### •	Average ROI by Customer Segment
+### •	ROI Trend
+### •	Conversion Trend
+### •	Short table summary by category (Num of campaigns, avg conversions, avg ROI)
 ---
 ## Campaign Performance
 ### KPI Cards
