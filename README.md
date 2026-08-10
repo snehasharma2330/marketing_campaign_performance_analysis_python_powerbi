@@ -30,7 +30,7 @@
 ## TOOLS USED
 ### •	**Jupyter Notebook** - Data cleaning and validation
 ### •	**Pandas** - Exploratory Data Analysis 
-### •	*Matplotlib** - Data visualization
+### •	**Matplotlib** - Data visualization
 ### •	**Power BI** - Interactive dashboard and business reporting
 ---
 
